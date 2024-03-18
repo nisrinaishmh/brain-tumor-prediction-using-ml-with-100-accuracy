@@ -23,7 +23,7 @@
 
 **Task for Mentee from IBM Academy Advance AI Mentor @ Infinite Learning Course**🎓
 
-**Completed Course:** Practice to explains the code review dataset that has been imported from the Kaggel website and explains the output of the program that has been modified/created.🔭🛸
+**Completed Course:** Practice to explains the code review dataset that has been imported from the Kaggle website and explains the output of the program that has been modified/created.🔭🛸
 
 ### Mentee Info✨
 
