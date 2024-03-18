@@ -1,4 +1,4 @@
-# IBMSkillsNetwork: Python For Data Science - Brain Tumor Prediction using ML with 100% Accuracy🌈🪄 
+<h1 align="center"># IBMSkillsNetwork: Python For Data Science - Brain Tumor Prediction using ML with 100% Accuracy🌈🪄</h1>
   A brain tumor is a growth of abnormal cells in the brain. The anatomy of the brain is very complex, with different parts responsible for different nervous system. Brain Tumor can develop in any part of the brain or skull, including its protective lining, the underside of the brain(skull base), the brainstem, the sinuses and the nasal cavity, and many other areas.
   
   <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdoOWdwbDh3aTZlamtzeHZna2kzc245MzgxenFvNnN3a2EwcDk3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bisUM32T3apjHEcj1p/giphy.gif">
